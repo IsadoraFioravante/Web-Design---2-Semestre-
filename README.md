@@ -4,6 +4,7 @@ Repositório da disciplina de **Web Design** (2º semestre de Engenharia da Comp
 
 ## Projetos da AC2
 * **UPX-Hub:** `https://github.com/Web-Dot-Comma/UPX-Hub.git`
+ > O link listado na AC2 refere-se à atividade da AC2, complementada por outras entregas realizadas no Canvas.
 
 ---
 
@@ -18,6 +19,8 @@ O material é organizado em pastas por aula (`Aula XX/`), reunindo os slides em 
 * **Aula 06:** CSS: Seletores, Cores, Tipografia e Layouts Básicos
 * **Aula 07:** CSS: Box Model e Flexbox
 * **Aula 08:** JS: Sintaxe, Variáveis e Estruturas
+* **Conteúdo Complementar/:** Materiais e links extras de apoio da disciplina.
+* **exercicio/alien/:** Exercício prático do jogo **Alien** (lógica, renderização e estilos).
 
 ---
 
