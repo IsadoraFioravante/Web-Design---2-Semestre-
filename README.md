@@ -1,18 +1,21 @@
 # Web-Design---2-Semestre-
 
-Repositório da disciplina de Web Design (2º semestre de Engenharia da Computação – Facens), ministrada pelo Prof. Me. Deivison S. Takatu.
+Repositório da disciplina de **Web Design** (2º semestre de Engenharia da Computação – Facens), ministrada pelo Prof. Me. Deivison S. Takatu.
 
-## Projetos da AC2
+## Projetos da AC2 e AF
 
-- UPX-Hub: https://github.com/Web-Dot-Comma/UPX-Hub.git
+- **UPX-Hub (Repositório):** https://github.com/Web-Dot-Comma/UPX-Hub.git
+- **UPX-Hub (Aplicação / Deploy):** https://upx-hub.vercel.app/
+- **Documentação da AF (`AF/`):** Relatório completo do projeto **UPX Hub** (`AF - UPX Hub.pdf`).
 
-O link listado na AC2 refere-se à atividade da AC2, complementada por outras entregas realizadas no Canvas.
+> O link listado na AC2 refere-se à atividade da AC2, complementada por outras entregas realizadas no Canvas.
 
 ## Organização do Repositório
 
-O material é organizado em pastas por aula (`Aula XX/`), reunindo os slides em PDF e o arquivo `anotações.md` com o resumo de cada encontro:
+O material é organizado em pastas por aula (`Aula XX/`), reunindo os slides em PDF e o arquivo `anotações.md` com o resumo de cada encontro, além das pastas de avaliações, apoio e exercícios:
 
 - `AC2/`: Material da avaliação/atividade da AC2 (incluindo o PDF `UPXhub.pdf`).
+- `AF/`: Documento da Avaliação Final sobre o projeto **UPX Hub** (`AF - UPX Hub.pdf`).
 - Aula 01: Apresentação da Disciplina de Web Design
 - Aula 02: Introdução a Web Design e Controle de Versões
 - Aula 03: Fundamentos do HTML
@@ -22,7 +25,7 @@ O material é organizado em pastas por aula (`Aula XX/`), reunindo os slides em 
 - Aula 07: CSS: Box Model e Flexbox
 - Aula 08: JS: Sintaxe, Variáveis e Estruturas
 - `Conteúdo Complementar/`: Materiais e links extras de apoio da disciplina.
-- `exercicio/alien/`: Exercício prático do jogo Alien (lógica, renderização e estilos).
+- `exercicio/alien/`: Exercício prático do jogo **Alien** (lógica, renderização e estilos).
 
 ## Conteúdos Abordados
 
